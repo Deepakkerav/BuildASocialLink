@@ -49,12 +49,13 @@ body{
                 background-color: var(--Grey-700);
                 margin:min(0.5rem);
                 border-radius: 2rem;
-                span{
+                
+                
+            }
+            a > span{
                     color:var(--White);
 
                 }
-                
-            }
             a:hover{
                     background-color: var(--Green);
                     cursor:progress;
